@@ -1,3 +1,4 @@
-Nome:,Formula:,Grupo Funcional:
-metano,CH4,hidrocarbonetos
-gas hidrogenio,H2,inorganico
+metano,metano,>,etano,gas hidrogenio,adicao
+metano,metano,>,etano,gas hidrogenio,substituicao
+metano,metano,>,etano,gas hidrogenio,oxidacao
+metano,metano,>,etano,gas hidrogenio,eliminacao
