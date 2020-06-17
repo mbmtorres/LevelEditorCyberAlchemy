@@ -1,4 +1,4 @@
-Nome:,Formula:,Grupo Funcional:
-metano,CH4,hidrocarbonetos
-gas hidrogenio,H2,inorganico
-etano,CH6,hidrocarbonetos
+Nome:,Formula:,Grupo Funcional:,Primario:
+metano,CH4,hidrocarbonetos,sim
+gas hidrogenio,H2,inorganico,nao
+etano,CH6,hidrocarbonetos,nao
