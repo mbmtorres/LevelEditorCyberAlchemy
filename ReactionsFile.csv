@@ -1,4 +1,48 @@
-metano,metano,>,etano,gas hidrogenio,adicao
-metano,metano,>,etano,gas hidrogenio,substituicao
-metano,metano,>,etano,gas hidrogenio,oxidacao
-metano,metano,>,etano,gas hidrogenio,eliminacao
+metano,metano,>,etano,adicao,
+etano,metano,>,propano,adicao,
+etano,cloro,>,1-cloro-etano,ácido clorídrico,substituicao
+1-cloro-etano,>,eteno,eliminacao,,
+eteno,ácido clorídrico,>,1-cloro-etano,adicao,
+eteno,água,>,etanol,adicao,
+etanol,>,eteno,água,eliminacao,
+eteno,hidrogênio,>,etano,adicao,
+etano,>,eteno,hidrogênio,eliminacao,
+eteno,cloro,>,"1,2-dicloroetano",adicao,
+"1,2-dicloroetano",>,eteno,cloro,eliminacao,
+metano,cloro,>,clorometano,ácido clorídrico,substituicao
+clorometano,cloro,>,diclorometano,ácido clorídrico,substituicao
+diclorometano,cloro,>,triclorometano,ácido clorídrico,substituicao
+triclorometano,cloro,>,tetraclorometano,ácido clorídrico,substituicao
+clorometano,água,>,etanol,substituicao,
+metanol,>,metanal,oxidacao,,
+etanol,>,etanal,oxidacao,,
+etanal,>,ácido etanóico,oxidacao,,
+etanal,hidrogênio,>,etanol,adicao,
+propano,>,prop-1-eno,hidrogênio,eliminacao,
+propano,cloro,>,2-cloro-propano,ácido clorídrico,substituicao
+2-cloro-propano,>,prop-1-eno,eliminacao,,
+prop-1-eno,ácido clorídrico,>,2-cloro-propano,adicao,
+2-cloro-propano,>,prop-1-eno,ácido clorídrico,eliminacao,
+prop-1-eno,cloro,>,"1,2-dicloropropano",adicao,
+"1,2-dicloroetano",>,prop-1-eno,cloro,eliminacao,
+prop-1-eno,água,>,propan-2-ol,adicao,
+propan-2-ol,>,prop-1-eno,água,eliminacao,
+propan-2-ol,>,propan-2-ona,oxidacao,,
+propan-2-ona,hidrogênio,>,propan-2-ol,adicao,
+clorometano,água,>,metanol,ácido clorídrico,substituicao
+1-cloro-etano,água,>,etanol,ácido clorídrico,substituicao
+2-cloro-propano,água,>,propan-2-ol,ácido clorídrico,substituicao
+ácido etanóico,metanol,>,acetato de metila,adicao,
+ácido etanóico,etanol,>,acetato de etila,adicao,
+ácido etanóico,propan-2-ol,>,acetato de isopropila,adicao,
+eteno,>,etino,hidrogênio,eliminacao,
+etino,hidrogênio,>,eteno,adicao,
+etino,cloro,>,"1,2-dicloroeteno",adicao,
+"1,2-dicloroeteno",>,etino,cloro,eliminacao,
+"1,2-dicloroeteno",cloro,>,"1,1,2,2-tetracloroetano",adicao,
+"1,1,2,2-tetracloroetano",>,"1,2-dicloroeteno",cloro,eliminacao,
+etino,ácido clorídrico,>,cloroeteno,adicao,
+cloroeteno,>,etino,ácido clorídrico,eliminacao,
+cloroeteno,ácido clorídrico,>,"1,1-dicloroetano",adicao,
+"1,1-dicloroetano",>,cloroeteno,ácido clorídrico,eliminacao,
+etino,água,>,etanal,,
