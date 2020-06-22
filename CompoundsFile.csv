@@ -1,21 +1,14 @@
 Nome:,Formula:,Grupo Funcional:,Primário:,Sprite:,Utilidades:
-metano,CH4,hidrocarbonetos,sim,0,"- É utilizado como fonte de energia sustentável;
-- É utilizado como matéria prima para a fabricação de etanol, dióxido de carbono, cloreto de metila, amônia, diclorometano e acetileno."
+metano,CH4,hidrocarbonetos,sim,0,"- É utilizado como fonte de energia sustentável; - É utilizado como matéria prima para a fabricação de etanol, dióxido de carbono, cloreto de metila, amônia, diclorometano e acetileno."
 etano,C2H6,hidrocarbonetos,nao,0,
-propano,C3H8,hidrocarbonetos,nao,0,"- Gasolina;
-- É usado na mixed gas refirgerant (MGR), uma mistura essencial para liquefação do gás natural (GNL) para os processos industriais quando a refrigeração necessária é conseguida através da válvula chamada de válvula de Joule-Thomson;
-- Também pode ser usado em aerossóis."
+propano,C3H8,hidrocarbonetos,nao,0,"- Gasolina; - É usado na mixed gas refirgerant (MGR), uma mistura essencial para liquefação do gás natural (GNL) para os processos industriais quando a refrigeração necessária é conseguida através da válvula chamada de válvula de Joule-Thomson; - Também pode ser usado em aerossóis."
 cloro,Cl2,inorganico,sim,0,- Tratamento de água e na fabricação de ácido clorídrico
 1-cloro-etano,C2H5Cl,organoclorado,nao,0,"- Pode ser utilizado também como agente de refrigeração, como anestésico local e como solvente para gorduras, resinas, ceras, fósforo e enxofre."
-ácido clorídrico,HCl,inorganico,nao,0,"- Produção de policloreto de vinila para plásticos é usado na extração de petróleo;
-- Usado principalmente para limpeza de pisos e paredes de pedra ou azulejos e de superfícies metálicas antes do processo de soldagem."
+ácido clorídrico,HCl,inorganico,nao,0,- Produção de policloreto de vinila para plásticos é usado na extração de petróleo; - Usado principalmente para limpeza de pisos e paredes de pedra ou azulejos e de superfícies metálicas antes do processo de soldagem.
 eteno,C2H4,hidrocarbonetos,nao,0,- É o responsável pelo amadurecimento dos frutos.
-água,H2O,inorganico,sim,0,"- Principal fonte de vida para saúde humana;
-- Utilizada para obtenção de energia elétrica."
-etanol,C2H5OH,alcool,nao,0,"- Combustível;
-- Perfumaria."
-hidrogênio,H2,inorganico,sim,0,"- Combustível para foguetes espaciais ou carros;
-- Maçaricos de arco voltaico (utilizam energia elétrica) para cortar metais."
+água,H2O,inorganico,sim,0,- Principal fonte de vida para saúde humana; - Utilizada para obtenção de energia elétrica.
+etanol,C2H5OH,alcool,nao,0,- Combustível; - Perfumaria.
+hidrogênio,H2,inorganico,sim,0,- Combustível para foguetes espaciais ou carros; - Maçaricos de arco voltaico (utilizam energia elétrica) para cortar metais.
 "1,2-dicloroetano",C2H4Cl2,organoclorado,nao,0,"- Precursor do polímeto PVC, usado para fazer objetos de plástico."
 clorometano,CH3Cl,organoclorado,nao,0,- Intermediário químico na produção de polímeros de silicone.
 diclorometano,CH2Cl2,organoclorado,nao,0,
