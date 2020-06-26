@@ -26,8 +26,40 @@ metanol,CH3OH,alcool,nao,0,
 acetato de metila,C3H6O2,ester,nao,0,- Usado como solvente/v por exemplo em tintas/v vernizes e adesivos.
 acetato de etila,C3H7O2,ester,nao,0,- Usado como solvente/v por exemplo em tintas/v vernizes e adesivos.
 acetato de isopropila,C5H10O2,ester,nao,0,- Usado como solvente de celulose/v plástico/v petróleo e gorduras.
-etino,C2H2,hidrocarbonetos,nao,0,- É matéria prima para vários componentes/v como tintas e fibras têxteis.
-1/v2-dicloroeteno,C2H2Cl2,organoclorado,nao,0,
-1/v1/v2/v2-tetracloroetano,C2H2Cl4,organoclorado,nao,0,
-1/v1-dicloroetano,C2H4Cl2,organoclorado,nao,0,
-cloroeteno,C2H3Cl,organoclorado,nao,0,
+etino,C2H2,hidrocarbonetos,nao,0,- É matéria prima para vários componentes/v como tintas e fibras têxteis.Nome:,Formula:,Grupo Funcional:,Primário:,Sprite:,Utilidades:,Quatidade:
+metano,CH4,hidrocarbonetos,sim,0,- É utilizado como fonte de energia sustentável; - É utilizado como matéria prima para a fabricação de etanol/v dióxido de carbono/v cloreto de metila/v amônia/v diclorometano e acetileno.,1
+etano,C2H6,hidrocarbonetos,nao,0,,1
+propano,C3H8,hidrocarbonetos,nao,0,- Gasolina; - É usado na mixed gas refirgerant (MGR)/v uma mistura essencial para liquefação do gás natural (GNL) para os processos industriais quando a refrigeração necessária é conseguida através da válvula chamada de válvula de Joule-Thomson; - Também pode ser usado em aerossóis.,1
+cloro,Cl2,inorganico,sim,0,- Tratamento de água e na fabricação de ácido clorídrico,1
+1-cloro-etano,C2H5Cl,organoclorado,nao,0,- Pode ser utilizado também como agente de refrigeração/v como anestésico local e como solvente para gorduras/v resinas/v ceras/v fósforo e enxofre.,1
+ácido clorídrico,HCl,inorganico,nao,0,- Produção de policloreto de vinila para plásticos é usado na extração de petróleo; - Usado principalmente para limpeza de pisos e paredes de pedra ou azulejos e de superfícies metálicas antes do processo de soldagem.,1
+eteno,C2H4,hidrocarbonetos,nao,0,- É o responsável pelo amadurecimento dos frutos.,1
+água,H2O,inorganico,sim,0,- Principal fonte de vida para saúde humana; - Utilizada para obtenção de energia elétrica.,1
+etanol,C2H5OH,alcool,nao,0,- Combustível; - Perfumaria.,1
+hidrogênio,H2,inorganico,sim,0,- Combustível para foguetes espaciais ou carros; - Maçaricos de arco voltaico (utilizam energia elétrica) para cortar metais.,1
+1/v2-dicloroetano,C2H4Cl2,organoclorado,nao,0,- Precursor do polímeto PVC/v usado para fazer objetos de plástico.,1
+clorometano,CH3Cl,organoclorado,nao,0,- Intermediário químico na produção de polímeros de silicone.,1
+diclorometano,CH2Cl2,organoclorado,nao,0,,1
+triclorometano,CHCl3,organoclorado,nao,0,- Poder anestésico,1
+tetraclorometano,CCl4,organoclorado,nao,0,- Muito usado como agente extintor e como agente refrigerante.,1
+etanal,C2H4O,aldeido,nao,0,- Seu principal uso tem sido para produção de ácido acético. Também pode ser utilizado na produção de perfumes/v resinas de poliéster e corantes básicos. Além de ser usado como conservante/v como agente aromatizante e desnaturante para álcool.,1
+metanal,CH2O,aldeido,nao,0,- Formol (nome mais conhecido desse composto) é utilizado como conservante de cadáveres e peças anatômicas. Como também/v era utilizado para embalsamação e/v mais recentemente/v utilizado em procedimentos capilares em salões de beleza. ,1
+ácido etanóico,CH3COOH,acido carboxilico,nao,0,- Reagente químico importante e largamente utilizado na indústria química/v usado na produção de politereftalato de etileno (PET)/v sendo este utilizado em garrafas de bebidas; o acetato de celulose utilizado na película fotográfica; o acetato de polivinil utilizado na cola de madeira; também utilizado para limpeza e desinfecção.,1
+prop-1-eno,C3H6,hidrocarbonetos,nao,0,- Geralmente utilizados como combustível para a reação de desidrogenação de propano.,1
+2-cloro-propano,C3H7Cl,organoclorado,nao,0,- Inútil,1
+propan-2-ol,C3H7OH,alcool,nao,0,- Utilizado na fabricação de anti-sépticos/v desinfectantes e detergentes.,1
+propan-2-ona,C3H7O,cetona,nao,0,- Usado como solvente de tintas/v vernizes/v esmaltes/v na preparação de sedas e na preparação de medicamentos.,1
+metanol,CH3OH,alcool,nao,0,,1
+1/v2-dicloropropano,C3H6Cl2,organoclorado,nao,0,,1
+acetato de metila,C3H6O2,ester,nao,0,- Usado como solvente/v por exemplo em tintas/v vernizes e adesivos.,1
+acetato de etila,C3H7O2,ester,nao,0,- Usado como solvente/v por exemplo em tintas/v vernizes e adesivos.,1
+acetato de isopropila,C5H10O2,ester,nao,0,- Usado como solvente de celulose/v plástico/v petróleo e gorduras.,1
+etino,C2H2,hidrocarbonetos,nao,0,- É matéria prima para vários componentes/v como tintas e fibras têxteis.,1
+1/v2-dicloroeteno,C2H2Cl2,organoclorado,nao,0,,1
+1/v1/v2/v2-tetracloroetano,C2H2Cl4,organoclorado,nao,0,,1
+1/v1-dicloroetano,C2H4Cl2,organoclorado,nao,0,,1
+cloroeteno,C2H3Cl,organoclorado,nao,0,,1
+1/v2-dicloroeteno,C2H2Cl2,organoclorado,nao,0,1
+1/v1/v2/v2-tetracloroetano,C2H2Cl4,organoclorado,nao,0,1
+1/v1-dicloroetano,C2H4Cl2,organoclorado,nao,0,1
+cloroeteno,C2H3Cl,organoclorado,nao,0,1
