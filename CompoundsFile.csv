@@ -6,9 +6,9 @@ cloro,Cl2,inorganico,sim,0,- Tratamento de água e na fabricação de ácido clo
 1-cloro-etano,C2H5Cl,organoclorado,nao,0,- Pode ser utilizado também como agente de refrigeração/v como anestésico local e como solvente para gorduras/v resinas/v ceras/v fósforo e enxofre.,1
 ácido clorídrico,HCl,inorganico,nao,0,- Produção de policloreto de vinila para plásticos é usado na extração de petróleo; - Usado principalmente para limpeza de pisos e paredes de pedra ou azulejos e de superfícies metálicas antes do processo de soldagem.,1
 eteno,C2H4,hidrocarbonetos,nao,0,- É o responsável pelo amadurecimento dos frutos.,1
-água,H2O,inorganico,sim,0,- Principal fonte de vida para saúde humana; - Utilizada para obtenção de energia elétrica.,1
+água,H2O,inorganico,nao,0,- Principal fonte de vida para saúde humana; - Utilizada para obtenção de energia elétrica.,1
 etanol,C2H5OH,alcool,nao,0,- Combustível; - Perfumaria.,1
-hidrogênio,H2,inorganico,sim,0,- Combustível para foguetes espaciais ou carros; - Maçaricos de arco voltaico (utilizam energia elétrica) para cortar metais.,1
+hidrogênio,H2,inorganico,nao,0,- Combustível para foguetes espaciais ou carros; - Maçaricos de arco voltaico (utilizam energia elétrica) para cortar metais.,1
 1/v2-dicloroetano,C2H4Cl2,organoclorado,nao,0,- Precursor do polímeto PVC/v usado para fazer objetos de plástico.,1
 clorometano,CH3Cl,organoclorado,nao,0,- Intermediário químico na produção de polímeros de silicone.,1
 diclorometano,CH2Cl2,organoclorado,nao,0,,1
