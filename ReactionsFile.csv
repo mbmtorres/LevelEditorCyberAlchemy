@@ -1,8 +1,8 @@
 metano,metano,>,etano,adicao,
 etano,metano,>,propano,adicao,
-etano,cloro,>,1-cloro-etano,ácido clorídrico,substituicao
-1-cloro-etano,>,eteno,eliminacao,,
-eteno,ácido clorídrico,>,1-cloro-etano,adicao,
+etano,cloro,>,cloroetano,ácido clorídrico,substituicao
+cloroetano,>,eteno,eliminacao,,
+eteno,ácido clorídrico,>,cloroetano,adicao,
 eteno,água,>,etanol,adicao,
 etanol,>,eteno,água,eliminacao,
 eteno,hidrogênio,>,etano,adicao,
@@ -13,7 +13,7 @@ metano,cloro,>,clorometano,ácido clorídrico,substituicao
 clorometano,cloro,>,diclorometano,ácido clorídrico,substituicao
 diclorometano,cloro,>,triclorometano,ácido clorídrico,substituicao
 triclorometano,cloro,>,tetraclorometano,ácido clorídrico,substituicao
-clorometano,água,>,etanol,substituicao,
+clorometano,água,>,metanol,substituicao,
 metanol,>,metanal,oxidacao,,
 etanol,>,etanal,oxidacao,,
 etanal,>,ácido etanóico,oxidacao,,
@@ -46,3 +46,5 @@ cloroeteno,>,etino,ácido clorídrico,eliminacao,
 cloroeteno,ácido clorídrico,>,1/v1-dicloroetano,adicao,
 1/v1-dicloroetano,>,cloroeteno,ácido clorídrico,eliminacao,
 etino,água,>,etanal,,
+1/v2 dicloropropano,>,prop-1-eno,cloro,eliminacao,
+etano,>,eteno,eliminacao,,
