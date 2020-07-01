@@ -3,7 +3,7 @@ metano,CH4,hidrocarbonetos,sim,0,- É utilizado como fonte de energia sustentáv
 etano,C2H6,hidrocarbonetos,nao,0,,1
 propano,C3H8,hidrocarbonetos,nao,0,- Gasolina; - É usado na mixed gas refirgerant (MGR)/v uma mistura essencial para liquefação do gás natural (GNL) para os processos industriais quando a refrigeração necessária é conseguida através da válvula chamada de válvula de Joule-Thomson; - Também pode ser usado em aerossóis.,1
 cloro,Cl2,inorganico,sim,0,- Tratamento de água e na fabricação de ácido clorídrico,1
-1-cloro-etano,C2H5Cl,organoclorado,nao,0,- Pode ser utilizado também como agente de refrigeração/v como anestésico local e como solvente para gorduras/v resinas/v ceras/v fósforo e enxofre.,1
+cloroetano,C2H5Cl,organoclorado,nao,0,- Pode ser utilizado também como agente de refrigeração/v como anestésico local e como solvente para gorduras/v resinas/v ceras/v fósforo e enxofre.,1
 ácido clorídrico,HCl,inorganico,nao,0,- Produção de policloreto de vinila para plásticos é usado na extração de petróleo; - Usado principalmente para limpeza de pisos e paredes de pedra ou azulejos e de superfícies metálicas antes do processo de soldagem.,1
 eteno,C2H4,hidrocarbonetos,nao,0,- É o responsável pelo amadurecimento dos frutos.,1
 água,H2O,inorganico,nao,0,- Principal fonte de vida para saúde humana; - Utilizada para obtenção de energia elétrica.,1
