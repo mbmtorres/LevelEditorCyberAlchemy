@@ -30,7 +30,7 @@ propan-2-ol,>,prop-1-eno,água,eliminacao,
 propan-2-ol,>,propan-2-ona,oxidacao,,
 propan-2-ona,hidrogênio,>,propan-2-ol,adicao,
 clorometano,água,>,metanol,ácido clorídrico,substituicao
-1-cloro-etano,água,>,etanol,ácido clorídrico,substituicao
+cloroetano,água,>,etanol,ácido clorídrico,substituicao
 2-cloro-propano,água,>,propan-2-ol,ácido clorídrico,substituicao
 ácido etanóico,metanol,>,acetato de metila,adicao,
 ácido etanóico,etanol,>,acetato de etila,adicao,
