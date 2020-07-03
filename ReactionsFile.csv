@@ -26,7 +26,7 @@ propano,>,propeno,hidrogênio,eliminacao,
 propano,cloro,>,2-cloro-propano,ácido clorídrico,substituicao
 propeno,ácido clorídrico,>,2-cloro-propano,adicao,
 propeno,cloro,>,1/v2-dicloropropano,adicao,
-propeno,água,>,propan-2-ol,adicao,
+propeno,água,>,2-propanol,adicao,
 2-cloro-propano,>,propeno,ácido clorídrico,eliminacao,
 1/v2-dicloroetano,>,propeno,cloro,eliminacao,
 2-propanol,>,propeno,água,eliminacao,
